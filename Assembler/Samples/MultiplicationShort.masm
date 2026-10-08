@@ -1,0 +1,27 @@
+// Test multiplication with constants
+@prod1
+M=3*4
+@prod2
+M=0*5
+@prod3
+M=1*10
+
+// Test multiplication with variables
+@m
+M=5
+@n
+M=6
+@result
+M=m*n
+
+// Test multiplication edge cases
+@zero1
+M=0*m
+@zero2
+M=n*0
+@same
+M=m*m
+
+(END)
+@END
+0;JMP

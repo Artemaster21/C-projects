@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.37111.16 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Incapsulation.RationalNumbers", "Incapsulation.RationalNumbers.csproj", "{7CCC131A-69C0-CFCC-7E09-105C062DAC1D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7CCC131A-69C0-CFCC-7E09-105C062DAC1D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7CCC131A-69C0-CFCC-7E09-105C062DAC1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7CCC131A-69C0-CFCC-7E09-105C062DAC1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7CCC131A-69C0-CFCC-7E09-105C062DAC1D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {57E218A1-7CCC-4B5D-BCE0-B17B7E2F23C3}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,27 @@
+// Test addition with constants
+@result1
+M=5+3
+
+// Test addition with variables
+@x
+M=10
+@y
+M=4
+@sum
+M=x+y
+
+// Test addition with mixed operands
+@mixed
+M=x+2
+@mixed2
+M=3+y
+
+// Test chained addition
+@temp
+M=x
+@chained
+M=temp+y
+
+(END)
+@END
+0;JMP

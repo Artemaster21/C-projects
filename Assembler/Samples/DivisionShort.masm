@@ -1,0 +1,25 @@
+// Test division with constants
+@quot1
+M=12/3
+@quot2
+M=10/3
+@quot3
+M=1/1
+
+// Test division with variables
+@p
+M=20
+@q
+M=4
+@div_result
+M=p/q
+
+// Test edge cases
+@self
+M=p/p
+@one
+M=p/1
+
+(END)
+@END
+0;JMP

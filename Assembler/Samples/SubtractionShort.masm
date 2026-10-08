@@ -1,0 +1,27 @@
+// Test subtraction with constants
+@diff1
+M=10-3
+
+// Test subtraction with variables
+@a
+M=15
+@b
+M=5
+@result
+M=a-b
+
+// Test edge cases
+@zero
+M=5-5
+@negative
+M=3-7
+
+// Test with immediate values
+@immediate
+M=a-3
+@immediate2
+M=10-b
+
+(END)
+@END
+0;JMP
